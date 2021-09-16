@@ -1,4 +1,7 @@
+# This is for educational purposes only. 
 # REvil-Sodinokibi-Ransomware-Universal-Decryptor-Key
+
+https://threatpost.com/revil-sodinokibi-ransomware-universal-decryptor/169498/
 
 Bitdefender worked with law enforcement to create a key to unlock victims encrypted in ransomware attacks before REvil’s servers went belly-up on July 13.
 
@@ -10,7 +13,7 @@ Any connections from the following IP addresses
 37.1.203[.]158
 37.1.204[.]143
 5.45.87[.]6
-93.190.142[.]7 
+93.190.142[.]7
 
 peroxy[.]dll #Maze_ransomware
 md5: 6d9134aaa7d3af23bd72e459414160a3
